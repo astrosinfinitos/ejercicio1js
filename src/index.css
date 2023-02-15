@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+#dado{
+    height:200px;
+    width: 200px;
+    border:1px solid black;
+    border-radius: 5px;
+    background-color: white;
+    margin: auto;
+    font-size: 170px;
+}
